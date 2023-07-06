@@ -1,0 +1,14 @@
+h1 {
+  text-align: center;
+}
+
+ol > li {
+  list-style: upper-alpha;
+}
+
+.navigation-buttons {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
